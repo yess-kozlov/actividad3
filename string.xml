@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_age">Edad</string>
+    <string name="btn_submit">Enviar</string>
+    <string name="display_name">Nombre: %1$s</string> <!-- %1$s sirve para colocar el nombre -->
+    <string name="display_age">Edad: %1$s años</string> <!-- %1$s sirve para colocar la edad -->
+    <string name="btn_back">Regresar</string>
+</resources>
